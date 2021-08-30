@@ -1,52 +1,65 @@
 [
   {
-    "album": "The White Stripes",
-    "year": 1999,
-    "US_peak_chart_post": "-"
+    "id": 1,
+    "type": "사이트",
+    "title": "미니멀 라이프 실천을 위한 30가지 원칙",
+    "url": "https://simpleandnomad.com/%EB%AF%B8%EB%8B%88%EB%A9%80-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%8B%A4%EC%B2%9C-30%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99/",
+    "date": "2021.09.03"
   },
   {
-    "album": "De Stijl",
-    "year": 2000,
-    "US_peak_chart_post": "-"
+    "id": 2,
+    "type": "사이트",
+    "title": "현실 미니멀리스트의 첫 걸음, 정리정돈 꿀팁 알아보기 [미니멀라이프 노하우]",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=52703",
+    "date": "2021.09.03"
   },
   {
-    "album": "White Blood Cells",
-    "year": 2001,
-    "US_peak_chart_post": 61
+    "id": 3,
+    "type": "사이트",
+    "title": "미니멀 라이프를 도와주는 랜선 마스터",
+    "url": "https://www.noblesse.com/home/news/magazine/detail.php?no=10669",
+    "date": "2021.09.03"
   },
   {
-    "album": "Elephant",
-    "year": 2003,
-    "US_peak_chart_post": 6
+    "id": 4,
+    "type": "사이트",
+    "title": "미니멀 라이프 실천을 위한 30가지 원칙",
+    "url": "https://simpleandnomad.com/%EB%AF%B8%EB%8B%88%EB%A9%80-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%8B%A4%EC%B2%9C-30%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99/",
+    "date": "2021.09.03"
   },
   {
-    "album": "Get Behind Me Satan",
-    "year": 2005,
-    "US_peak_chart_post": 3
+    "id": 5,
+    "type": "사이트",
+    "title": "현실 미니멀리스트의 첫 걸음, 정리정돈 꿀팁 알아보기 [미니멀라이프 노하우]",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=52703",
+    "date": "2021.09.03"
   },
   {
-    "album": "Icky Thump",
-    "year": 2007,
-    "US_peak_chart_post": 2
+    "id": 6,
+    "type": "사이트",
+    "title": "미니멀 라이프를 도와주는 랜선 마스터",
+    "url": "https://www.noblesse.com/home/news/magazine/detail.php?no=10669",
+    "date": "2021.09.03"
   },
   {
-    "album": "Under Great White Northern Lights",
-    "year": 2010,
-    "US_peak_chart_post": 11
+    "id": 7,
+    "type": "사이트",
+    "title": "미니멀 라이프 실천을 위한 30가지 원칙",
+    "url": "https://simpleandnomad.com/%EB%AF%B8%EB%8B%88%EB%A9%80-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%8B%A4%EC%B2%9C-30%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99/",
+    "date": "2021.09.03"
   },
   {
-    "album": "Live in Mississippi",
-    "year": 2011,
-    "US_peak_chart_post": "-"
+    "id": 8,
+    "type": "사이트",
+    "title": "현실 미니멀리스트의 첫 걸음, 정리정돈 꿀팁 알아보기 [미니멀라이프 노하우]",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=52703",
+    "date": "2021.09.03"
   },
   {
-    "album": "Live at the Gold Dollar",
-    "year": 2012,
-    "US_peak_chart_post": "-"
-  },
-  {
-    "album": "Nine Miles from the White City",
-    "year": 2013,
-    "US_peak_chart_post": "-"
+    "id": 9,
+    "type": "사이트",
+    "title": "미니멀 라이프를 도와주는 랜선 마스터",
+    "url": "https://www.noblesse.com/home/news/magazine/detail.php?no=10669",
+    "date": "2021.09.03"
   }
 ]
