@@ -1,6 +1,22 @@
 [
   {
     "id": 1,
+    "type": "brunch",
+    "title": "미니멀 라이프정리정돈 4단계 비법",
+    "url": "https://brunch.co.kr/@sukyoung84/141",
+    "date": "2021.09.03",
+    "image": "https://img1.daumcdn.net/thumb/R1280x0.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/50nB/image/2m6w3qb05plP3-DGXTwLgr5CEdE.png"
+  },
+  {
+    "id": 2,
+    "type": "데일리팝",
+    "title": "비움의 미학을 실천하세요! 작은집 물건 비우기 [미니멀라이프 노하우]",
+    "url": "http://www.dailypop.kr/news/articleView.html?idxno=53314",
+    "date": "2021.09.03",
+    "image": "https://www.dailypop.kr/news/thumbnail/202108/53314_105163_2557_v150.jpg"
+  },
+  {
+    "id": 3,
     "type": "LA VIE NOMADE",
     "title": "내가 미니멀리스트가 될 수 있을까?",
     "url": "https://lavienomade.tistory.com/151",
@@ -8,7 +24,7 @@
     "image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl0Cgs%2FbtqvpBjxidS%2F1VTVwxQlYFqiR6oD1uBOn1%2Fimg.png"
   },
   {
-    "id": 2,
+    "id": 4,
     "type": "플래닛타임즈",
     "title": "제로 웨이스트 ≠ 미니멀 라이프",
     "url": "http://www.planet-times.com/720",
@@ -16,15 +32,7 @@
     "image": "https://f.xza.co.kr/http://www.planet-times.com/data/planet-times_com/bigimg/161444_202108231054260.jpg"
   },
   {
-    "id": 3,
-    "type": "스머프 플레이",
-    "title": "미니멀리스트 옷장 만들기의 어려움",
-    "url": "https://smurfplay.kr/321",
-    "date": "2021.09.02",
-    "image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSOD7L%2Fbtrb66vJcfo%2FRHmhQdodLn2Do1vTXg3fgK%2Fimg.png"
-  },
-  {
-    "id": 4,
+    "id": 5,
     "type": "독서신문",
     "title": "미니멀라이프? 일본식보다는 스웨덴식으로",
     "url": "https://www.readersnews.com/news/articleView.html?idxno=102735",
@@ -32,7 +40,7 @@
     "image": "https://www.readersnews.com/news/thumbnail/202104/102735_70262_5222_v150.jpg"
   },
   {
-    "id": 5,
+    "id": 6,
     "type": "노블레스닷컴",
     "title": "미니멀 라이프를 도와주는 랜선 마스터",
     "url": "https://www.noblesse.com/home/news/magazine/detail.php?no=10669",
@@ -40,7 +48,7 @@
     "image": "http://www.noblesse.com/shop/data/board/magazine/3e5151e3af8c8d06"
   },
   {
-    "id": 6,
+    "id": 7,
     "type": "심플N노마드",
     "title": "미니멀 라이프 실천을 위한 30가지 원칙",
     "url": "https://simpleandnomad.com/%EB%AF%B8%EB%8B%88%EB%A9%80-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%8B%A4%EC%B2%9C-30%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99/",
